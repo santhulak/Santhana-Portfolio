@@ -1,4 +1,6 @@
-<h1 align="center"> Streamlit Web Applications </h1>
+<h1 align="center"> Data Science Projects Portfolio </h1>
+
+<h2 align="left"> Streamlit Web Applications </h1>
 
 ## Regression Problem Statements
 
