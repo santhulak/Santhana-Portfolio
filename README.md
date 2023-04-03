@@ -14,7 +14,7 @@
   <tr>
     <td>1</td>
     <td>California Housing Price Prediction</td>
-    <td>![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229487679-d6964d75-58cc-4f85-97a0-194f54105b04.jpg)(https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)</td>
+    <td>[![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229487679-d6964d75-58cc-4f85-97a0-194f54105b04.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)</td>
     
   </tr>
 </tbody>
