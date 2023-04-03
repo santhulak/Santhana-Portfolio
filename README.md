@@ -3,7 +3,7 @@
 <table>
 <thead>
   <tr>
-    <th rowspan=2>Supervised Learning Projects</th>
+    <th colspan=2>Supervised Learning Projects</th>
   <tr>
     <th>S.No</th>
     <th>Name</th>    
