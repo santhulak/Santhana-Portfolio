@@ -1,5 +1,16 @@
 <h1 align="center"> Data Science Projects Portfolio </h1>
 
+<table>
+<thead>
+  <tr>
+    <td>S.No</td>
+    <td>Name</td>
+    <td>Link</td>
+  </tr>
+</thead>
+
+</table>
+
 ## Regression Problem Statements
 
 ### [California Housing Price Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
