@@ -3,11 +3,20 @@
 <table>
 <thead>
   <tr>
-    <td>S.No</td>
-    <td>Name</td>
-    <td>Link</td>
+    <th>Supervised Learning Projects</th>
+  <tr>
+    <th>S.No</th>
+    <th>Project Category</th>
+    <th>Link</th>
   </tr>
 </thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Machine Learning Projects - Regression</td>
+    <td></td>
+  </tr>
+</tbody>
 
 </table>
 
