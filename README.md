@@ -1,13 +1,13 @@
 <h1 align="center"> Data Science Projects Portfolio </h1>
 
 <table>
-<thead>
+<head>
   <tr>
     <td>S.No</td>
     <td>Name</td>
     <td>Link</td>
   </tr>
-</thead>
+</head>
 
 </table>
 
