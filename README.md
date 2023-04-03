@@ -14,7 +14,8 @@
   <tr>
     <td>1</td>
     <td>California Housing Price Prediction</td>
-    <td>![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)</td>
+    <td>[![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229487991-9dfb37a1-9f8e-42ac-99d8-73c3d04a70ae.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
+</td>
     
   </tr>
 </tbody>
@@ -32,6 +33,5 @@
 ### [Heart Disease Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Heart%20Disease%20Prediction)
 ### [Loan Eligibility Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Loan%20Eligibility%20Prediction)
 
-[![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229487991-9dfb37a1-9f8e-42ac-99d8-73c3d04a70ae.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
 
 
