@@ -53,5 +53,5 @@ Markdown | Less | Pretty
 
 S.No | Name | Link
 --- | --- | ---
-*Still* | `renders` | **nicely**
+1 | `California Housing Price Prediction` | [California Housing Price Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
 1 | 2 | 3
