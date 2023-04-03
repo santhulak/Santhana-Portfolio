@@ -6,15 +6,14 @@
     <th>Supervised Learning Projects</th>
   <tr>
     <th>S.No</th>
-    <th>Project Category</th>
-    <th>Link</th>
+    <th>Name</th>    
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>1</td>
-    <td>Machine Learning Projects - Regression</td>
-    <td></td>
+    <td>[California Housing Price Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)</td>
+    
   </tr>
 </tbody>
 
