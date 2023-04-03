@@ -53,5 +53,6 @@ Markdown | Less | Pretty
 
 S.No | Name | Link
 --- | --- | ---
-1 | `California Housing Price Prediction` | [![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229487991-9dfb37a1-9f8e-42ac-99d8-73c3d04a70ae.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
+1 | `California Housing Price Prediction` | [![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229494887-b3e06b5e-807b-4229-837e-8e73bd982ba5.jpg)]
+(https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
 1 | 2 | 3
