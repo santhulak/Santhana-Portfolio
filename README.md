@@ -51,9 +51,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-S.No | Name | Link
---- | --- | ---
-1 | `California Housing Price Prediction` | [![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-mages.githubusercontent.com/66127023/229494887-b3e06b5e-807b-4229-837e-8e73bd982ba5.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
-1 | 2 | 3[![index-finger-flat-red-and-white-colors-rounded-vector-5284402](https://user-images.githubusercontent.com/66127023/229495543-c50b5c85-2fc2-456d-a61a-8cacf90b7d7b.jpg)](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
-
+S.No | Name | Category | Dataset | Code
+---  | ---  | --- | --- | --- | ---
+1 | California Housing Price Prediction | Regression | [house_prices.csv](https://github.com/santhulak/Machine-learning-projects/blob/main/House%20Price%20Prediction/house_prices.csv) |[Click to View Code](https://github.com/santhulak/Machine-learning-projects/tree/main/House%20Price%20Prediction)
 
