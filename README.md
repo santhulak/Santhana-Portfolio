@@ -52,6 +52,6 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 S.No | Name | Category | Dataset | Code|
----  | ---  | --- | --- | --- | ---|
+---  |: ---  |: --- |: --- |: --- |: ---|
 1 | California Housing Price Prediction | Regression | [house_prices.csv](https://github.com/santhulak/Machine-learning-projects/blob/main/House%20Price%20Prediction/house_prices.csv) |[Click to View Code](https://github.com/santhulak/Machine-learning-projects/tree/main/House%20Price%20Prediction)
 
