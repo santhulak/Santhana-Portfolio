@@ -48,52 +48,34 @@
   
 </details>
 
-
-### [Heart Disease Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Heart%20Disease%20Prediction)
-### [Loan Eligibility Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Loan%20Eligibility%20Prediction)
-
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| S.No          | Name          |Category   | Dataset        | Code | 
-| ------------- |:-------------:| ----------:|--------------:|------:|
-| 1             | California Housing Price Prediction | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-S.No | Name | Category | Dataset | Code|
----  |: ---  |: --- |: --- |: --- |: ---|
-1 | California Housing Price Prediction | Regression | [house_prices.csv](https://github.com/santhulak/Machine-learning-projects/blob/main/House%20Price%20Prediction/house_prices.csv) |[Click to View Code](https://github.com/santhulak/Machine-learning-projects/tree/main/House%20Price%20Prediction)
-
-
 <details>
-  <summary>Click me</summary>
+  <summary>Heart Disease Prediction</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  ### Project Overview
+  <dd>
+    The goal of this project is to develop a machine learning model that can predict the presence of heart disease in patients based on their medical and demographic information.
+  
+  ### Data
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/blob/main/Heart%20Disease%20Prediction/heart.csv
+  
+  ### Code 
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Heart%20Disease%20Prediction
+  
 </details>
+
+### []()
+<details>
+  <summary>Loan Eligibility Prediction</summary>
+  
+  ### Project Overview
+  <dd>
+    The goal of this project is to develop a machine learning model that can predict the eligibility of loan applicants based on their personal and financial information.
+  
+  ### Data
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/blob/main/Loan%20Eligibility%20Prediction/LoanApprovalPrediction.csv
+    
+  ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Loan%20Eligibility%20Prediction
+  
+</details>
+
