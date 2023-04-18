@@ -1,4 +1,8 @@
-<h1 align="center"> Data Science Projects Portfolio </h1>
+<h1 align="center"> Data Science & Machine Learning Projects Portfolio </h1>
+<hr>
+### This Repository contains portfolio of Data Science and Machine Learning projects Presented in the form of Jupyter notebooks in python filr format. 
+
+Note: Click the arrow to know more information about the projects
 
 ## Supervised Learning Machine Learning Projects
 <details>
@@ -63,7 +67,7 @@
   
 </details>
 
-### []()
+
 <details>
   <summary>Loan Eligibility Prediction</summary>
   
@@ -79,3 +83,49 @@
   
 </details>
 
+<details>
+  <summary>Penguin Classification</summary>
+  
+  ### Project Overview
+  <dd>
+    The goal of this project is to develop a machine learning model that can classify penguin species based on their physical characteristics. 
+  </dd>
+  
+  ### Data
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/blob/main/Penguin%20Classification%20Streamlit%20App/penguins_classification.csv
+    
+  ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Penguin%20Classification%20Streamlit%20App
+  
+</details>
+
+<details>
+  <summary>Simple Bioinformatics Nucleoid DNA Count Analysis</summary>
+  
+  ### Project Overview
+  <dd>
+    The goal of this project is to develop a machine learning model that can accurately count the number of nucleotide (A, C, G, T) present in the DNA sequence.
+    
+  </dd>
+ 
+  
+  ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Simple%20Bioinformatics%20DNA%20Count
+  
+</details>
+
+<details>
+  <summary></summary>
+  
+  ### Project Overview
+  <dd>
+    
+  </dd>
+  
+  ### Data
+   
+    
+  ### Code 
+  
+  
+</details>
