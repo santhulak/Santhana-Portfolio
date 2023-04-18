@@ -2,7 +2,7 @@
 
 ## Supervised Learning
 <details>
-  <summary>Click me</summary>
+  <summary>California Housing Price Prediction</summary>
   
   ### Heading
   1. Foo
@@ -10,12 +10,7 @@
      * Baz
      * Qux
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  
 </details>
 ### [California Housing Price Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
 ### [Iris Flower Classification](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Iris%20Flower%20Classification)
