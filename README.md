@@ -75,7 +75,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Iris Flower Classification</summary>
+  <summary><h3>Iris Flower Classification</h3></summary>
   
   ### Project Overview
   <dd>
@@ -90,7 +90,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Diabetes Prediction</summary>
+  <summary><h3>Diabetes Prediction</h3></summary>
   
   ### Project Overview
   <dd>
@@ -105,7 +105,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Heart Disease Prediction</summary>
+  <summary><h3>Heart Disease Prediction</h3></summary>
   
   ### Project Overview
   <dd>
@@ -121,7 +121,7 @@ Note: Click the arrow to know more information about the projects
 
 
 <details>
-  <summary>Loan Eligibility Prediction</summary>
+  <summary><h3>Loan Eligibility Prediction</h3></summary>
   
   ### Project Overview
   <dd>
@@ -136,7 +136,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Penguin Classification</summary>
+  <summary><h3>Penguin Classification</h3></summary>
   
   ### Project Overview
   <dd>
@@ -152,7 +152,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Simple Bioinformatics Nucleoid DNA Count Analysis</summary>
+  <summary><h3>Simple Bioinformatics Nucleoid DNA Count Analysis</h3></summary>
   
   ### Project Overview
   <dd>
@@ -167,7 +167,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Women Extra Marital Affair Prediction</summary>
+  <summary><h3>Women Extra Marital Affair Prediction</h3></summary>
   
   ### Project Overview
   <dd>
@@ -185,7 +185,7 @@ Note: Click the arrow to know more information about the projects
 ## Mini Projects
 
 <details>
-  <summary>Simple Stock Price App</summary>
+  <summary><h3>Simple Stock Price App</h3></summary>
   
   ### Project Overview
   <dd>
