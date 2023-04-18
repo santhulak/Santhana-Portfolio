@@ -23,20 +23,33 @@ Note: Click the arrow to know more information about the projects
   
 </details>
 
-
 <details>
-  <summary><h3>Customer Segmentation Clustering</h3></summary>
+  <summary><h3>Medical Insurance Cost Prediction</h3></summary>
   
   ### Project Overview
   <dd>
-   . The goal of the project is to identify different groups of customers based on their purchase behavior and demographics.
+    The Medical Insurance Cost Prediction project is a machine learning project that predicts the medical insurance costs of individuals based on a set of factors such as age, gender, BMI, and smoking status.
   </dd>
-  
   ### Data
-  https://github.com/santhulak/Machine-learning-projects/blob/main/Unsupervised%20Learning/Customer%20Segmentation/customers.csv
-    
+  https://github.com/santhulak/Machine-learning-projects/blob/main/Medical%20Insurance%20Cost%20Prediction/medical_insurance.csv
+  
   ### Code 
-  https://github.com/santhulak/Machine-learning-projects/tree/main/Unsupervised%20Learning/Customer%20Segmentation
+  https://github.com/santhulak/Machine-learning-projects/tree/main/Medical%20Insurance%20Cost%20Prediction
+  
+</details>
+
+<details>
+  <summary><h3>Parkinson Disease Prediction</h3></summary>
+  
+  ### Project Overview
+  <dd>
+    The Parkinson Disease Prediction project is a machine learning project that predicts the presence of Parkinson's disease in individuals based on their speech characteristics. 
+  </dd>
+  ### Data
+  https://github.com/santhulak/Machine-learning-projects/blob/main/Parkinson%20Disease%20Prediction/parkinsons.csv
+  
+  ### Code 
+  https://github.com/santhulak/Machine-learning-projects/tree/main/Parkinson%20Disease%20Prediction
   
 </details>
 
@@ -55,6 +68,23 @@ Note: Click the arrow to know more information about the projects
   https://github.com/santhulak/Fast-API/tree/main/Bank%20Note%20Authentication-%20FastAPI
   
 </details>
+
+<details>
+  <summary><h3>Customer Segmentation Clustering</h3></summary>
+  
+  ### Project Overview
+  <dd>
+   . The goal of the project is to identify different groups of customers based on their purchase behavior and demographics.
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/Machine-learning-projects/blob/main/Unsupervised%20Learning/Customer%20Segmentation/customers.csv
+    
+  ### Code 
+  https://github.com/santhulak/Machine-learning-projects/tree/main/Unsupervised%20Learning/Customer%20Segmentation
+  
+</details>
+
 
 ## Streamlit Application Projects
 <details>
@@ -226,15 +256,15 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Fastapi</summary>
+  <summary>API to CSV Conversion</summary>
   
   ### Project Overview
   <dd>
-   FastAPI is a modern, fast high-performance, web framework for building APIs with Python based on standard Python. FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts. It also uses the OpenAPI standard (formerly known as Swagger) and JSON Schema for documentation.
+   The goal of the project is to make it easy for users to extract data from APIs and use it in other applications, such as spreadsheets and databases.
   </dd>
   
    
   ### Code 
-  https://github.com/santhulak/Fast-API
+ https://github.com/santhulak/Python-Projects/tree/main/api%20to%20csv%20data
   
 </details>
