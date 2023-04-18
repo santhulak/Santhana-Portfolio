@@ -4,10 +4,10 @@
 
 Note: Click the arrow to know more information about the projects
 
-# Machine Learning Projects
+## Machine Learning Projects
 
 <details>
-  <summary><h2>SONAR Rock vs Mine Prediction</h2></summary>
+  <summary><h3>SONAR Rock vs Mine Prediction</h3></summary>
   
   ### Project Overview
   <dd>
@@ -25,7 +25,7 @@ Note: Click the arrow to know more information about the projects
 
 
 <details>
-  <summary>Customer Segmentation Clustering</summary>
+  <summary><h3>Customer Segmentation Clustering</h3></summary>
   
   ### Project Overview
   <dd>
@@ -41,7 +41,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Bank Note Authentication- FastAPI</summary>
+  <summary><h3>Bank Note Authentication- FastAPI</h3></summary>
   
   ### Project Overview
   <dd>
@@ -58,7 +58,7 @@ Note: Click the arrow to know more information about the projects
 
 ## Streamlit Application Projects
 <details>
-  <summary>California Housing Price Prediction</summary>
+  <summary><h3>California Housing Price Prediction</h3></summary>
   
   ### Project Overview
   <dd>
