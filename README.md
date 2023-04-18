@@ -8,7 +8,7 @@
   <dd>
     The goal of this project is to develop a machine learning model that can accurately predict housing prices in California based on various features such as    location, number of rooms, and population density. The project involves performing exploratory data analysis, feature engineering, modeling, and evaluation.
   </dd>
-  ### Heading Data
+  ### Data
    https://github.com/santhulak/Streamlit_WebApplication_Apps/blob/main/California%20Housing%20Price%20Prediction/housing.csv
   
   ### Code 
