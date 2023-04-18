@@ -212,6 +212,57 @@ Note: Click the arrow to know more information about the projects
   
 </details>
 
+## Power BI Projects
+<details>
+  <summary><h3>Personal Finance Project Reports</h3></summary>
+  
+  ### Project Overview
+  <dd>
+    Personal Finance Project Reports in Power BI is a dashboard project that allows users to track their personal finances, including expenses and income.
+  </dd>
+  
+  ### Data
+   https://github.com/santhulak/PowerBI-Project-Reports/blob/main/Personal%20Finance%20Dashboard%20-%20Power%20BI/Finance%20Database.xlsx
+  ### Code 
+   https://github.com/santhulak/PowerBI-Project-Reports/tree/main/Personal%20Finance%20Dashboard%20-%20Power%20BI
+  
+  
+</details>
+
+<details>
+  <summary><h3>Super Store Reports</h3></summary>
+  
+  ### Project Overview
+  <dd>
+    Super Store Report in Power BI is a dashboard project that provides insights into the performance of a retail store. 
+  </dd>
+  
+  ### Data
+   https://github.com/santhulak/PowerBI-Project-Reports/blob/main/Super%20Store%20Report-%20Power%20BI/SuperStore.xlsx
+  
+  ### Code 
+   https://github.com/santhulak/PowerBI-Project-Reports/tree/main/Super%20Store%20Report-%20Power%20BI
+  
+  
+</details>
+
+<details>
+  <summary><h3>Illayaraja Ragas Reports</h3></summary>
+  
+  ### Project Overview
+  <dd>
+    Illayaraja Ragas report in Power BI is a dashboard project that provides insights into the ragas used in the compositions of the famous Indian music director Illayaraja. 
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/PowerBI-Project-Reports/blob/main/Illayaraja%20Ragas%20-Power%20BI/Ilaiyaraja-Ragas.xls
+  
+  ### Code 
+   https://github.com/santhulak/PowerBI-Project-Reports/tree/main/Illayaraja%20Ragas%20-Power%20BI
+  
+  
+</details>
+
 ## Mini Projects
 
 <details>
