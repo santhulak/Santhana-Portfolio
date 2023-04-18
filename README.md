@@ -280,7 +280,7 @@ Note: Click the arrow to know more information about the projects
 
 
 <details>
-  <summary>Creating-Bar-Charts-with-Streamlit</summary>
+  <summary><h3>Creating-Bar-Charts-with-Streamlit</h3></summary>
   
   ### Project Overview
   <dd>
@@ -293,7 +293,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>Fastapi</summary>
+  <summary><h3>Fastapi</h3></summary>
   
   ### Project Overview
   <dd>
@@ -307,7 +307,7 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary>API to CSV Conversion</summary>
+  <summary><h3>API to CSV Conversion</h3></summary>
   
   ### Project Overview
   <dd>
