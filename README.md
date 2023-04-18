@@ -5,8 +5,14 @@
   <summary>California Housing Price Prediction</summary>
   
   ### Project Overview
-The goal of this project is to develop a machine learning model that can accurately predict housing prices in California based on various features such as location, number of rooms, and population density. The project involves performing exploratory data analysis, feature engineering, modeling, and evaluation.
-
+    The goal of this project is to develop a machine learning model that can accurately predict housing prices in California based on various features such as location, number of rooms, and population density. The project involves performing exploratory data analysis, feature engineering, modeling, and evaluation.
+  
+  ### Data
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/blob/main/California%20Housing%20Price%20Prediction/housing.csv
+  
+  ### Code 
+   https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction
+  
   
 </details>
 ### [California Housing Price Prediction](https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/California%20Housing%20Price%20Prediction)
