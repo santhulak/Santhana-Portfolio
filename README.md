@@ -7,7 +7,7 @@ Note: Click the arrow to know more information about the projects
 ## Machine Learning Projects
 
 <details>
-  <summary>SONAR Rock vs Mine Prediction</summary>
+  <summary><b>SONAR Rock vs Mine Prediction</b></summary>
   
   ### Project Overview
   <dd>
