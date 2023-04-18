@@ -4,7 +4,25 @@
 
 Note: Click the arrow to know more information about the projects
 
-## Supervised Learning Machine Learning Projects
+## Machine Learning Projects
+
+<details>
+  <summary></summary>
+  
+  ### Project Overview
+  <dd>
+   
+  </dd>
+  
+  ### Data
+  
+    
+  ### Code 
+  
+  
+</details>
+
+## Streamlit Application Projects
 <details>
   <summary>California Housing Price Prediction</summary>
   
@@ -115,17 +133,46 @@ Note: Click the arrow to know more information about the projects
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Women Extra Marital Affair Prediction</summary>
   
   ### Project Overview
   <dd>
-    
+   The objective of this machine learning project is to predict whether a woman is having an affair or not based on a set of input features. 
   </dd>
   
   ### Data
-   
+   This dataset is available from the StatLib repository 
     
   ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/prediction
   
+</details>
+
+## Mini Projects
+
+<details>
+  <summary>Simple Stock Price App</summary>
+  
+  ### Project Overview
+  <dd>
+   The goal of this project is to create a simple program that retrieves stock prices from an API and displays them to the user.
+  </dd>
+     
+  ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Simple%20Stock%20Price%20App
+  
+</details>
+
+
+<details>
+  <summary>Creating-Bar-Charts-with-Streamlit</summary>
+  
+  ### Project Overview
+  <dd>
+   The goal of this project is to demonstrate how to create interactive bar charts using Streamlit. The program is written in Python and uses the streamlit library to create the web app.
+  </dd>
+     
+  ### Code 
+  https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Creating-Bar-Charts-with-Streamlit
   
 </details>
