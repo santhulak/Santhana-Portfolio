@@ -7,18 +7,52 @@ Note: Click the arrow to know more information about the projects
 ## Machine Learning Projects
 
 <details>
-  <summary></summary>
+  <summary>SONAR Rock vs Mine Prediction</summary>
   
   ### Project Overview
   <dd>
-   
+   The goal of this project is to create a machine learning program that predicts whether an object is a rock or a mine based on SONAR data. 
   </dd>
   
   ### Data
+  https://github.com/santhulak/Machine-learning-projects/blob/main/SONAR%20Rock%20vs%20Mine%20Prediction/mine_vs_rock.csv
   
     
   ### Code 
+  https://github.com/santhulak/Machine-learning-projects/tree/main/SONAR%20Rock%20vs%20Mine%20Prediction
   
+</details>
+
+
+<details>
+  <summary>Customer Segmentation Clustering</summary>
+  
+  ### Project Overview
+  <dd>
+   . The goal of the project is to identify different groups of customers based on their purchase behavior and demographics.
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/Machine-learning-projects/blob/main/Unsupervised%20Learning/Customer%20Segmentation/customers.csv
+    
+  ### Code 
+  https://github.com/santhulak/Machine-learning-projects/tree/main/Unsupervised%20Learning/Customer%20Segmentation
+  
+</details>
+
+<details>
+  <summary>Bank Note Authentication- FastAPI</summary>
+  
+  ### Project Overview
+  <dd>
+   The goal of the project is to develop a system that can classify bank notes as either genuine or counterfeit based on their features.
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/Fast-API/blob/main/Bank%20Note%20Authentication-%20FastAPI/BankNote_Auth.csv
+    
+  ### Code 
+  https://github.com/santhulak/Fast-API/tree/main/Bank%20Note%20Authentication-%20FastAPI
   
 </details>
 
@@ -174,5 +208,33 @@ Note: Click the arrow to know more information about the projects
      
   ### Code 
   https://github.com/santhulak/Streamlit_WebApplication_Apps/tree/main/Creating-Bar-Charts-with-Streamlit
+  
+</details>
+
+<details>
+  <summary>Fastapi</summary>
+  
+  ### Project Overview
+  <dd>
+   FastAPI is a modern, fast high-performance, web framework for building APIs with Python based on standard Python. FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts. It also uses the OpenAPI standard (formerly known as Swagger) and JSON Schema for documentation.
+  </dd>
+  
+   
+  ### Code 
+  https://github.com/santhulak/Fast-API
+  
+</details>
+
+<details>
+  <summary>Fastapi</summary>
+  
+  ### Project Overview
+  <dd>
+   FastAPI is a modern, fast high-performance, web framework for building APIs with Python based on standard Python. FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts. It also uses the OpenAPI standard (formerly known as Swagger) and JSON Schema for documentation.
+  </dd>
+  
+   
+  ### Code 
+  https://github.com/santhulak/Fast-API
   
 </details>
