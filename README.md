@@ -1,6 +1,6 @@
 <h1 align="center"> Data Science & Machine Learning Projects Portfolio </h1>
 
-### This Repository contains portfolio of Data Science and Machine Learning projects Presented in the form of Jupyter notebooks in python filr format. 
+### This Repository contains portfolio of Data Science and Machine Learning projects presented in the form of Jupyter notebooks in python file format. 
 
 Note: Click the arrow to know more information about the projects
 
