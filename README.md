@@ -27,7 +27,7 @@ Note: Click the arrow to know more information about the projects
   
   ### Project Overview
   <dd>
-   The goal of this project is to create a machine learning program classifies whether the moview review is positive or negative.
+   The goal of this project is to create a machine learning program which classifies whether the moview review is positive or negative.
   </dd>
   
   ### Data
