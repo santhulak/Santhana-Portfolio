@@ -54,6 +54,22 @@ Note: Click the arrow to know more information about the projects
   
 </details>
 
+<details>
+  <summary><h3>Fake News Detection</h3></summary>
+  
+  ### Project Overview
+  <dd>
+This project aims to detect fake news articles using Natural Language Processing (NLP) techniques and three different machine learning algorithms: Random Forest, K-Nearest Neighbors (KNN), and Naive Bayes. The dataset used for this project is a collection of news articles labeled as either fake or real, obtained from the Kaggle Fake News Competition.
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/NLP_Projects/blob/main/Fake%20News%20Detection/Fake_Real_Data.csv
+    
+  ### Code 
+  https://github.com/santhulak/NLP_Projects/blob/main/Fake%20News%20Detection/Fake%20News%20Detection.ipynb
+</details>
+
+
 
 ## Machine Learning Projects
 
