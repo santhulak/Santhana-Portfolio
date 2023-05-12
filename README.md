@@ -38,6 +38,22 @@ Note: Click the arrow to know more information about the projects
   
 </details>
 
+<details>
+  <summary><h3>News Category Classification</h3></summary>
+  
+  ### Project Overview
+  <dd>
+   This project aims to classify news articles into different categories using Natural Language Processing (NLP) techniques and the Multinomial Naive Bayes (MNB) algorithm. The dataset used for this project is the AG News Corpus, which consists of news articles from four categories: World, Sports, Business, and Science/Technology.
+  </dd>
+  
+  ### Data
+  https://github.com/santhulak/NLP_Projects/blob/main/News%20Category%20Classification/news_dataset.json
+    
+  ### Code 
+ https://github.com/santhulak/NLP_Projects/blob/main/News%20Category%20Classification/News%20Category%20Classification.ipynb
+  
+</details>
+
 
 ## Machine Learning Projects
 
